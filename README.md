@@ -18,10 +18,9 @@
 - [Curriculum](#curriculum)
 - [Code of conduct](#code-of-conduct)
 
-
 # Summary
 
-The Classical Chinese curriculum is a **complete education in Classical Chinese (文言文)** using online materials. The program aims to build proficiency equivalent to a 4-year undergraduate foundation in Sinology or Chinese classics, condensed into **1–2 years** at ~20 hours/week.
+The Classical Chinese curriculum is a **complete education in Classical Chinese (文言文)** using online materials.
 
 The focus is on reading comprehension, grammatical mastery, textual analysis, and cultural/historical context, with balanced attention to theory (grammar and philology), practice (translation and reading), and synthesis (interpretation and application).
 
@@ -29,12 +28,6 @@ The focus is on reading comprehension, grammatical mastery, textual analysis, an
 
 Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
 they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md) or [extras/other_curricula](extras/other_curricula.md).
-
-**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
-
-- We recommend doing all courses in **Core**, only skipping a course when you are certain that you've already learned the material previously.
-- For simplicity, we recommend working through courses (especially Core) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on in a day/week.
-- The courses in the Advanced section are electives. Choose one track to specialize in and complete all the courses listed under it.
 
 **[How to contribute](/CONTRIBUTING.html)**
 
@@ -44,58 +37,117 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
 - Subreddits: [r/classicalchinese](https://www.reddit.com/r/classicalchinese/)
 - Discord servers: [Classical East Asian Languages](https://discord.gg/vmfxMAcw72)
 - You can also interact through [GitHub issues](https://github.com/hocbigg/classical-chinese/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](/CONTRIBUTING.html).
+- Join our Discord server (for discussions around this and other curricula): 
+    
+    [![discord link](/assets/discord.png)](https://discord.gg/KHqAv4Nvm5)
 
 # Curriculum
 
-## Intro Classical Chinese
+- [I. Foundations of Classical Chinese](#i-foundations-of-classical-chinese)
+    - [Core Language System](#core-language-system)
+    - [Reading & Parsing Skills](#reading--parsing-skills)
+- [II. Core Classical Chinese Texts](#ii-core-classical-chinese-texts)
+    - [Early Prose and Thought Pre-Qin](#early-prose-and-thought-pre-qin)
+    - [Qin–Han Historical and Administrative Prose](#qinhan-historical-and-administrative-prose)
+- [III. Literary Culture](#iii-literary-culture)
+    - [Poetry](#poetry)
+    - [Prose and Literary Style](#prose-and-literary-style)
+- [IV. Later Intellectual Traditions](#iv-later-intellectual-traditions)
+    - [Neo-Confucianism and Daoism](#neo-confucianism-and-daoism)
 
-| Subject | Why Study? | Book | Online Course |
+## How to use this curriculum
+
+### Core
+
+These four sections form the essential foundation. Work through them one after another — do not skip or jump ahead.
+
+1. **I. Foundations of Classical Chinese**  
+   Start here. This part teaches you how to read and understand the language itself.
+
+2. **II. Core Classical Chinese Texts**  
+   Next, read the most influential early texts that shaped the entire tradition. Finish both subsections (3 and 4) before moving on.
+
+3. **III. Literary Culture**  
+   Then move into the major literary forms (poetry and prose). Complete both subsections (5 and 6).
+
+4. **IV. Later Intellectual Traditions** (only the first subsection: Song Thought)  
+   Finish the curriculum by studying how the earlier ideas were reinterpreted in later centuries. Read the “Song Thought” part of section 7.
+
+Once you have completed this Core path, you will have a coherent, well-rounded understanding of Classical Chinese language, major texts, literary tradition, and its intellectual development — equivalent to the core of an undergraduate major.
+
+### Advanced
+
+After finishing the Core path, choose one or both of the following tracks depending on your interests:
+
+- **Advanced Daoism** (the second part of section 7): Choose this track if you are especially drawn to philosophical imagination, paradox, and non-Confucian ways of thinking.
+- **Deeper focus on poetry**: Return to section 5 and read more widely in Tang poetry (or continue with other poets) if you love concise, emotional, and imagistic writing.
+
+
+## I. Foundations of Classical Chinese
+
+### 1. Core Language System
+
+| Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Introduction to Classical Chinese Grammar | Master the concise syntax, particles, and structures distinct from vernacular Chinese; essential for all reading. | [Outline of Classical Chinese Grammar by Edwin G. Pulleyblank](https://www.amazon.com/Outline-Classical-Chinese-Grammar-Pulleyblank/dp/0774805412) | [Let's Learn: Classical Chinese (YouTube series)](https://www.youtube.com/watch?v=ufLaHFq-x7w) |
-| Basic Readings in Classical Chinese | Apply grammar to simple texts; develop recognition of common vocabulary and patterns. | [An Introduction to Literary Chinese by Michael A. Fuller](https://www.amazon.com/Introduction-Literary-Chinese-Revised-Monographs/dp/0674017269) | Covered in Let's Learn: Classical Chinese (YouTube series) |
-| Tools and Reference Skills | Learn to use dictionaries, commentaries, and philological methods for independent study. | [A Student's Dictionary of Classical and Medieval Chinese by Paul W. Kroll](https://www.amazon.com/Students-Dictionary-Classical-Medieval-Chinese/dp/9004325131) | [Classical Chinese Wikibook](https://en.wikibooks.org/wiki/Classical_Chinese) |
+| Introductory Grammar | It teaches you the basic sentence structures and rules needed to read classical texts without modern Chinese grammar getting in the way. | [Paul Rouzer – *A New Practical Primer of Literary Chinese* (Harvard University Press preview & details)](https://www.hup.harvard.edu/books/9780674022706) (Archive.org borrow may be available in some regions; full free access limited) | — |
+| Particles & Syntax | It helps you understand how small words and word order create meaning in classical sentences. | — | **[Wikibooks: Classical Chinese](https://en.wikibooks.org/wiki/Classical_Chinese)** |
+| Lexicon & Word Meanings | It gives you the precise classical meanings of characters, which are often very different from modern usage. | — | **[Chinese Text Project Dictionary](https://ctext.org/dictionary.pl?if=en)** |
 
-## Core Classical Chinese
+### 2. Reading & Parsing Skills
 
-| Subject | Why Study? | Book | Online Course |
+| Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Pre-Qin Philosophical Masters | Foundational ideas in ethics, politics, and cosmology; core of Chinese intellectual tradition. | [Readings in Classical Chinese Philosophy edited by Philip J. Ivanhoe and Bryan W. Van Norden](https://archive.org/details/readingsinclassi0000unse_k0q4) | [New Horizons in Chinese Philosophy (edX by Tsinghua University)](https://www.edx.org/learn/philosophy/tsinghua-university-new-horizons-in-chinese-philosophy-zhong-guo-zhe-xue-xin-shi-ye) |
-| Advanced Classical Grammar and Syntax | Deepen understanding of complex structures, variants, and rhetorical devices. | [An Introduction to Literary Chinese by Michael A. Fuller](https://www.amazon.com/Introduction-Literary-Chinese-Revised-Monographs/dp/0674017269) | Covered in Let's Learn: Classical Chinese (YouTube series) |
-| Early Historical Texts | Understand historiography and narrative style; bridge philosophy and history. | [Classical Chinese: A Basic Reader by Naiying Yuan, Hai-tao Tang, and James Geiss](https://www.amazon.com/Classical-Chinese-Reader-Naiying-Yuan/dp/0691174571) |  |
-| History of Chinese Literature (Pre-Qin to Han) | Contextualize texts within literary evolution; survey genres. | [The Columbia History of Chinese Literature by Victor H. Mair](https://www.amazon.com/Columbia-History-Chinese-Literature/dp/0231109849) | [Classics of Chinese Humanities: Guided Readings (Coursera by CUHK)](https://www.coursera.org/learn/classics-chinese-humanities) |
-| Qin-Han Prose and Philosophy | Consolidate empire-era thought and bureaucratic writing. | [Readings in Classical Chinese Philosophy edited by Philip J. Ivanhoe and Bryan W. Van Norden](https://archive.org/details/readingsinclassi0000unse_k0q4) | Covered in New Horizons in Chinese Philosophy (edX) |
+| Graded Reading | It builds your ability to read real classical sentences step by step with increasing difficulty. | Rouzer (same as above) | — |
+| Annotated Classical Texts| It shows you how experts explain difficult passages, so you can learn to understand them yourself. | — | **[Chinese Text Project (ctext.org)](https://ctext.org/)** |
+| Parallel Translations | It lets you compare the original text with clear English versions to quickly grasp meaning and style. | — | **[CTP + Legge & Watson public-domain translations](https://ctext.org/)** |
 
-## Advanced Classical Chinese
+## II. Core Classical Chinese Texts
 
-### Philosophical Thought
+### 3. Early Prose and Thought (Pre-Qin)
 
-| Subject | Why Study? | Book | Online Course |
+| Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Tang-Song Philosophical Revival | Neo-Confucianism and Buddhism/Daoism interactions. | [Sources of Chinese Tradition (Vol. 1)](https://www.amazon.com/Sources-Chinese-Tradition-Vol-Introduction/dp/0231109393) | Covered in Classics of Chinese Humanities: Guided Readings (Coursera) |
-| Advanced Daoist Texts | Mysticism and cosmology beyond Laozi/Zhuangzi. | [Zhuangzi (trans. Burton Watson)](https://www.amazon.com/Zhuangzi-Basic-Writings-Translations-Tradition/dp/0231129599) | Covered in New Horizons in Chinese Philosophy (edX) |
+| Confucius, Mozi, Laozi, Zhuangzi | These texts form the foundation of Chinese philosophy and give you the core ideas that shaped Chinese thought for over 2000 years. | **[Ivanhoe & Van Norden – Readings in Classical Chinese Philosophy](https://archive.org/details/readingsinclassi0000unse_k0q4)** (Archive.org) | **[Chinese Text Project](https://ctext.org/)** |
+| Grammar in Context | It teaches you how classical grammar actually works in famous real texts instead of abstract rules. | **[Fuller – *Introduction to Literary Chinese*](https://archive.org/details/introductiontoli0000full)** (Archive.org borrow) | — |
 
-### Poetry and Literary Aesthetics
+### 4. Qin–Han Historical and Administrative Prose
 
-| Subject | Why Study? | Book | Online Course |
+| Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Classical Poetry (Shi and Ci) | Master rhythmic forms, allusion, and emotion; pinnacle of Chinese literary expression. | [An Anthology of Chinese Literature: Beginnings to 1911 by Stephen Owen](https://www.amazon.com/Anthology-Chinese-Literature-Beginnings-1911/dp/0393971066) | [Classical Chinese Poetry by Paula Varsano (YouTube lecture)](https://www.youtube.com/watch?v=EhhEVeCH0Mo) |
-| Tang Poetry | Golden age of regulated verse. | [The Collected Poems of Li Bai or Du Fu (selections)](https://www.amazon.com/Poems-Penguin-Classics-Bai-Li/dp/0140442723) | Covered in Classical Chinese Poetry (YouTube) |
+| Shiji, Hanshu | They are the most important historical works in Chinese tradition and teach you how early historians narrated events and people. | **[Selections from Records of the Grand Historian](https://archive.org/details/recordsofgrandhi0000sima_y7t5)** (Burton Watson translation, Qin dynasty focus; Han volumes also available) | **[Chinese Text Project](https://ctext.org/)** |
+| Historiographic Style | It helps you recognize the special narrative techniques and language used in official Chinese historical writing. | — | **[CUHK Classics of Chinese Humanities (Coursera)](https://www.coursera.org/learn/classics-chinese-humanities)** |
 
-### Historiography and Prose Masters
+## III. Literary Culture
 
-| Subject | Why Study? | Book | Online Course |
+### 5. Poetry
+
+| Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Dynastic Histories | Standard historical style; political and moral narratives. | [Selections from Shiji and Hanshu](https://www.amazon.com/Selections-Records-Grand-Historian-Sima/dp/0231081650) |  |
-| Tang-Song Guwen (Ancient-Style Prose) | Revival of concise Classical prose. | [Selections from Han Yu and Liu Zongyuan](https://www.amazon.com/Sources-Chinese-Tradition-Vol-Introduction/dp/0231109393) | Covered in Classics of Chinese Humanities: Guided Readings (Coursera) |
+| Shi, Yuefu, Ci | These forms contain some of the most beautiful and emotionally powerful expressions in Chinese literature. | **[Stephen Owen – Anthology](https://archive.org/details/anthologyofchine00step)** (Archive.org) | **[Paula Varsano YouTube](https://www.youtube.com/watch?v=hOkNF5uCZDQ)** (lecture series on Classical Chinese Poetry) |
+| Tang Poetry | Tang poems represent the highest achievement in Chinese poetic art and give you mastery of concise, vivid imagery. | **[Li Bai & Du Fu (public-domain selections)](https://ctext.org/)** | Chinese Text Project |
 
-## Capstone
+### 6. Prose and Literary Style
+
+| Subject | Why study? | Book | Online Resource |
+| --- | --- | --- | --- |
+| Guwen (Ancient-Style Prose) | It teaches you the clear, elegant prose style that became the model for serious writing for over a thousand years. | **[Han Yu & Liu Zongyuan (Archive.org selections)](https://archive.org/details/guwenguanzhi0000wuch)** (collections including their works) | CUHK Coursera |
+
+## IV. Later Intellectual Traditions
+
+### 7. Neo-Confucianism and Daoism
+
+| Subject | Why study? | Book | Online Resource |
+| --- | --- | --- | --- |
+| Song Thought | It shows how later thinkers reinterpreted and deepened classical Confucian ideas into a complete philosophical system. | **[Sources of Chinese Tradition Vol. 1](https://archive.org/details/sourcesofchinese0000deba)** (Archive.org) | CUHK Coursera |
+| Advanced Daoism | It gives you deeper insight into Daoist philosophy through its most sophisticated and imaginative text. | **[Zhuangzi (Watson)](https://archive.org/details/zhuangzi-burton-watson-1)** (full translation) | Chinese Text Project |
+
+## Final Projects
 
 **Project Options**:
 
 - Annotated translation of a medium-length text (e.g., one Zhuangzi chapter or Tang poem cycle, 2000–5000 characters).
 - Research essay comparing themes across texts (e.g., "Concepts of Dao in Laozi and Zhuangzi").
 - Critical edition/exegesis of a short passage with commentary.
-
 
 ## Congratulations
 
