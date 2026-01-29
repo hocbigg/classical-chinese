@@ -1,10 +1,7 @@
-<div align="center" style="text-align: center">
-<img src="/images/logo.png" alt=""/>
-<h3>Hocbigg - Classical Chinese</h3>
-<p>
-  Path to a free self-taught education in Classical Chinese!
-</p>
-</div>
+---
+title: Hocbigg - Classical Chinese
+description: Path to a free self-taught education in Classical Chinese!
+---
 
 # Contents
 
@@ -20,6 +17,19 @@ The Classical Chinese curriculum is a complete education in Classical Chinese (�
 The focus is on reading comprehension, grammatical mastery, textual analysis, and cultural/historical context, with balanced attention to theory (grammar and philology), practice (translation and reading), and synthesis (interpretation and application).
 
 The resource page can be found here: [classical-chinese/resources](resources.md). 
+
+## Organization
+
+This repository is organized into 2 main components:
+
+- **Core Curriculum** (this page): the foundational knowledge of the field;
+- **[Advanced Topics](advanced_topics.md)**: focused study in specific areas;
+
+**Process:** Learners may work through the curriculum independently or collaboratively, and either sequentially or selectively.
+
+- For simplicity, courses in the Core Curriculum are ordered according to their prerequisites.
+- The Core Curriculum provides a shared foundation and is intended to be completed in full.
+- Advanced Topics are optional; learners are encouraged to select one area of focus and complete all courses within that topic.
 
 Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
 they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md).
@@ -38,16 +48,16 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
 
 # Curriculum
 
-- [I. Foundations of Classical Chinese](#i-foundations-of-classical-chinese)
+- [Foundations of Classical Chinese](#foundations-of-classical-chinese)
     - [Core Language System](#core-language-system)
     - [Reading & Parsing Skills](#reading--parsing-skills)
-- [II. Core Classical Chinese Texts](#ii-core-classical-chinese-texts)
+- [Core Classical Chinese Texts](#core-classical-chinese-texts)
     - [Early Prose and Thought Pre-Qin](#early-prose-and-thought-pre-qin)
     - [Qin–Han Historical and Administrative Prose](#qinhan-historical-and-administrative-prose)
-- [III. Literary Culture](#iii-literary-culture)
+- [Literary Culture](#literary-culture)
     - [Poetry](#poetry)
     - [Prose and Literary Style](#prose-and-literary-style)
-- [IV. Later Intellectual Traditions](#iv-later-intellectual-traditions)
+- [Later Intellectual Traditions](#later-intellectual-traditions)
     - [Neo-Confucianism and Daoism](#neo-confucianism-and-daoism)
 
 ## How to use this curriculum
@@ -78,7 +88,7 @@ After finishing the Core path, choose one or both of the following tracks depend
 - Deeper focus on poetry: Return to section 5 and read more widely in Tang poetry (or continue with other poets) if you love concise, emotional, and imagistic writing.
 
 
-## I. Foundations of Classical Chinese
+## Foundations of Classical Chinese
 
 ### 1. Core Language System
 
@@ -96,7 +106,7 @@ After finishing the Core path, choose one or both of the following tracks depend
 | Annotated Classical Texts| It shows you how experts explain difficult passages, so you can learn to understand them yourself. | — | [Chinese Text Project (ctext.org)](https://ctext.org/) |
 | Parallel Translations | It lets you compare the original text with clear English versions to quickly grasp meaning and style. | — | [CTP + Legge & Watson public-domain translations](https://ctext.org/) |
 
-## II. Core Classical Chinese Texts
+## Core Classical Chinese Texts
 
 ### 3. Early Prose and Thought (Pre-Qin)
 
@@ -112,7 +122,7 @@ After finishing the Core path, choose one or both of the following tracks depend
 | Shiji, Hanshu | They are the most important historical works in Chinese tradition and teach you how early historians narrated events and people. | [Selections from Records of the Grand Historian](https://archive.org/details/recordsofgrandhi0000sima_y7t5) (Burton Watson translation, Qin dynasty focus; Han volumes also available) | [Chinese Text Project](https://ctext.org/) |
 | Historiographic Style | It helps you recognize the special narrative techniques and language used in official Chinese historical writing. | — | [CUHK Classics of Chinese Humanities (Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) |
 
-## III. Literary Culture
+## Literary Culture
 
 ### 5. Poetry
 
@@ -127,7 +137,7 @@ After finishing the Core path, choose one or both of the following tracks depend
 | --- | --- | --- | --- |
 | Guwen (Ancient-Style Prose) | It teaches you the clear, elegant prose style that became the model for serious writing for over a thousand years. | [Han Yu & Liu Zongyuan (Archive.org selections)](https://archive.org/details/guwenguanzhi0000wuch) (collections including their works) | CUHK Coursera |
 
-## IV. Later Intellectual Traditions
+## Later Intellectual Traditions
 
 ### 7. Neo-Confucianism and Daoism
 
