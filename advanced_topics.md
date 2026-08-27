@@ -10,8 +10,6 @@ This advanced curriculum is designed for students and researchers who have maste
 - [Medieval Hybrid Registers, Buddhist Chinese, and the Sinosphere](#medieval-hybrid-registers-buddhist-chinese-and-the-sinosphere): Analyzes non-standard registers, Buddhist translation idioms, Dunhuang vernacular manuscripts, and Literary Chinese across East Asia.
 - [Digital Sinology, Computational Philology, and Spatial Analysis](#digital-sinology-computational-philology-and-spatial-analysis): Applies computational text mining, stylometry, prosopographical databases, and historical GIS to classical textual corpora.
 
----
-
 ## Paleography, Epigraphy, and Early Excavated Texts
 
 This track trains researchers to read, transcribe, and analyze primary archaeological materials before their standardization into the modern script (*kaishu*). Students learn the principles of character composition, phonetic loan usage, and material manuscript culture.
@@ -23,8 +21,6 @@ This track trains researchers to read, transcribe, and analyze primary archaeolo
 | Warring States Bamboo and Silk Manuscripts | Investigates newly excavated philosophical, legal, and divinatory texts (Guodian, Mawangdui, Tsinghua, and Shangbo slips) that fundamentally reshape our understanding of early intellectual history. | Edward L. Shaughnessy – *Rewriting Early Chinese Texts* (SUNY Press)<br>- Scott Cook – *The Bamboo Texts of Guodian: A Study and Complete Translation* (Cornell East Asia Series)<br>- Imre Galambos – *Orthography of Early Chinese Writing: Evidence from Newly Excavated Manuscripts* (Budapest Monographs in East Asian Studies) |
 | Paleographic Decipherment and Graphic Evolution | Develops the philological and graphic techniques needed to trace character mutations from pictographic forms to small seal script (*xiaozhuan*) and clerical script (*lishu*). | William G. Boltz – *The Origin and Early Development of the Chinese Writing System* (American Oriental Society)<br>- Qiu Xigui – *Chinese Writing* (Chapters on Graphic Evolution and Variant Classifications) |
 
----
-
 ## Historical Phonology and Sinological Linguistics
 
 This track focuses on the sound systems of ancient and medieval Chinese, providing the linguistic foundation required to interpret poetic meters, sound-based loan characters (*tongjiazi*), and historical syntax.
@@ -34,8 +30,6 @@ This track focuses on the sound systems of ancient and medieval Chinese, providi
 | Middle Chinese Phonology & Rhyme Tables | Introduces the fanqie (反切) spelling system, the *Qieyun* and *Guangyun* rhyme dictionaries, and the structural analysis of initials, finals, and tonal categories. | Edwin G. Pulleyblank – *Middle Chinese: A Study in Historical Phonology* (UBC Press)<br>- Jerry Norman – *Chinese* (Cambridge Language Surveys, Chapter on Historical Phonology)<br>- Paul W. Kroll – *A Student's Dictionary of Classical and Medieval Chinese* (Brill, for Middle Chinese reconstruction keys) |
 | Old Chinese Reconstruction & Archaic Rhymes | Examines the phonological systems of the *Shijing* (Book of Songs) and early rhyme groups (*yundu* 韻部), including morphological prefixes, suffixes, and uvular/consonant clusters. | William H. Baxter and Laurent Sagart – *Old Chinese: A New Reconstruction* (Oxford University Press)<br>- William H. Baxter – *A Handbook of Old Chinese Phonology* (Mouton de Gruyter)<br>- Axel Schuessler – *ABC Etymological Dictionary of Old Chinese* (University of Hawaii Press) |
 | Historical Syntax & Grammaticalization | Analyzes structural shifts in word order, pronominal systems, causative verbs, negation particles, and aspect markers from Pre-Qin to the Song dynasty. | Christoph Harbsmeier – *Language and Logic*, Vol. 7, Part 1 of Joseph Needham's *Science and Civilisation in China* (Cambridge University Press)<br>- Edwin G. Pulleyblank – *Outline of Classical Chinese Grammar* (UBC Press, Advanced Syntax Chapters) |
-
----
 
 ## Textual Criticism, Commentarial Traditions, and Philology
 
@@ -47,8 +41,6 @@ This track equips students with the critical tools needed to evaluate textual co
 | Qing Evidential Scholarship (Kaozhengxue) | Examines the high-Qing philological revolution that applied rigorous phonological, epigraphic, and historical methods to reconstruct ancient texts. | Benjamin A. Elman – *From Philosophy to Philology: Intellectual and Social Aspects of Change in Late Imperial China* (Harvard University Asia Center)<br>- Wing-tsit Chan – *A Source Book in Chinese Philosophy* (Princeton University Press, Chapter on Qing Evidential Thought) |
 | Commentarial Systems of the Thirteen Classics | Unpacks the multi-layered commentarial apparatus of the *Shisanjing Zhushu* (十三經注疏), distinguishing Han-Tang early glosses (*zhu* / *shu*) from Song Neo-Confucian reinterpretations. | Daniel K. Gardner – *The Four Books: The Basic Teachings of the Later Confucian Tradition* (Hackett Publishing)<br>- Michael Nylan – *The Five "Confucian" Classics* (Yale University Press)<br>- [Chinese Text Project: Shisanjing Corpus](https://ctext.org/) |
 
----
-
 ## Medieval Hybrid Registers, Buddhist Chinese, and the Sinosphere
 
 Classical Chinese was a dynamic, transnational medium that evolved through intercultural contact, religious translation, and regional adaptation across East and Southeast Asia.
@@ -58,8 +50,6 @@ Classical Chinese was a dynamic, transnational medium that evolved through inter
 | Buddhist Translation Idiom & Hybrid Syntax | Analyzes the unique lexical, syntactical, and stylistic innovations created by translation bureaus (Kumārajīva, Xuanzang) rendering Sanskrit and Prakrit texts into Chinese. | Erik Zürcher – *The Buddhist Conquest of China: The Spread and Adaptation of Buddhism in Early Medieval China* (Brill)<br>- Daniel Boucher – *Bodhisattvas of the Forest and the Formation of the Mahāyāna* (University of Hawaii Press, Chapter on Translation Idioms)<br>- [CBETA Chinese Buddhist Electronic Text Association](https://www.cbeta.org/) |
 | Medieval Vernacularization & Dunhuang Manuscripts | Investigates colloquialized registers, transformation texts (*bianwen* 變文), and non-standard manuscript cultures preserved in the Dunhuang Mogao Caves. | Victor H. Mair – *T'ang Transformation Texts: A Study of the Buddhist Contribution to the Rise of Vernacular Fiction and Drama in China* (Harvard University Asia Center)<br>- Imre Galambos – *Translating Chinese Tradition and Teaching Tangut Culture* (De Gruyter) |
 | Literary Sinitic in the Sinosphere (Kanbun, Hanmun, Hán văn) | Explores the use of Classical Chinese as an East Asian lingua franca, focusing on glossing systems (*kundoku* in Japan, *gugyeol* in Korea) and trans-regional literary production. | Peter Kornicki – *Languages, Scripts, and Chinese Texts in East Asia* (Oxford University Press)<br>- Matthew Fraleigh – *Plucking Chrysanthemums: Narushima Ryūhoku and Sinitic Literary Culture in Modern Japan* (Harvard University Asia Center) |
-
----
 
 ## Digital Sinology, Computational Philology, and Spatial Analysis
 
