@@ -52,117 +52,107 @@ they belong in [extras/courses](extras/courses.md), [extras/readings](extras/rea
     - [Core Language System](#core-language-system)
     - [Reading & Parsing Skills](#reading--parsing-skills)
 - [Core Classical Chinese Texts](#core-classical-chinese-texts)
-    - [Early Prose and Thought Pre-Qin](#early-prose-and-thought-pre-qin)
+    - [Early Prose and Thought (Pre-Qin)](#early-prose-and-thought-pre-qin)
     - [Qin–Han Historical and Administrative Prose](#qinhan-historical-and-administrative-prose)
 - [Literary Culture](#literary-culture)
     - [Poetry](#poetry)
     - [Prose and Literary Style](#prose-and-literary-style)
 - [Later Intellectual Traditions](#later-intellectual-traditions)
-    - [Neo-Confucianism and Daoism](#neo-confucianism-and-daoism)
+    - [Neo-Confucianism and Commentarial Traditions](#neo-confucianism-and-commentarial-traditions)
+- [Final Projects](#final-projects)
+- [Congratulations](#congratulations)
 
 ## How to use this curriculum
 
-### Core
+### Core Path
 
-These four sections form the essential foundation. Work through them one after another — do not skip or jump ahead.
+This curriculum provides a structured, four-stage undergraduate core sequence designed for students starting with zero formal background in Classical Chinese (Literary Chinese / 文言文). Complete each module sequentially:
 
-1. I. Foundations of Classical Chinese  
-   Start here. This part teaches you how to read and understand the language itself.
+- Foundations of Classical Chinese
+  Begin here. This stage establishes fundamental character morphology, grammatical structures, classical particles (虛字), reference dictionary lookup skills, and sentence parsing.
 
-2. II. Core Classical Chinese Texts  
-   Next, read the most influential early texts that shaped the entire tradition. Finish both subsections (3 and 4) before moving on.
+- Core Classical Chinese Texts
+  Read foundational Pre-Qin philosophical masters and early Qin–Han historical narratives, learning to interpret real historical and argumentative prose in its syntactic and cultural context.
 
-3. III. Literary Culture  
-   Then move into the major literary forms (poetry and prose). Complete both subsections (5 and 6).
+- Literary Culture
+  Examine classical verse forms (Shi, Yuefu, Ci) and prose styles (Pianwen and Guwen), developing sensitivity to prosody, parallel structures, and stylistic registers.
 
-4. IV. Later Intellectual Traditions (only the first subsection: Song Thought)  
-   Finish the curriculum by studying how the earlier ideas were reinterpreted in later centuries. Read the “Song Thought” part of section 7.
+- Later Intellectual Traditions
+  Study the Song-Ming Neo-Confucian reinterpretation of the classical canon, the Four Books framework, and traditional commentarial practices (*xungu* and *zhu*).
 
-Once you have completed this Core path, you will have a coherent, well-rounded understanding of Classical Chinese language, major texts, literary tradition, and its intellectual development — equivalent to the core of an undergraduate major.
-
-### Advanced
-
-After finishing the Core path, choose one or both of the following tracks depending on your interests:
-
-- Advanced Daoism (the second part of section 7): Choose this track if you are especially drawn to philosophical imagination, paradox, and non-Confucian ways of thinking.
-- Deeper focus on poetry: Return to section 5 and read more widely in Tang poetry (or continue with other poets) if you love concise, emotional, and imagistic writing.
-
+Completing this sequence equips you with the philological, grammatical, and literary competence equivalent to the core lower- and upper-division requirements of an undergraduate major in Classical Chinese.
 
 ## Foundations of Classical Chinese
 
-### 1. Core Language System
+### Core Language System
 
 | Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Introductory Grammar | It teaches you the basic sentence structures and rules needed to read classical texts without modern Chinese grammar getting in the way. | [Paul Rouzer – *A New Practical Primer of Literary Chinese* (Harvard University Press preview & details)](https://www.hup.harvard.edu/books/9780674022706) (Archive.org borrow may be available in some regions; full free access limited) | — |
-| Particles & Syntax | It helps you understand how small words and word order create meaning in classical sentences. | — | [Wikibooks: Classical Chinese](https://en.wikibooks.org/wiki/Classical_Chinese) |
-| Lexicon & Word Meanings | It gives you the precise classical meanings of characters, which are often very different from modern usage. | — | [Chinese Text Project Dictionary](https://ctext.org/dictionary.pl?if=en) |
+| Introductory Grammar & Morphology | It introduces basic sentence structures, parts of speech, nominal and verbal predication, and word order for absolute beginners without confusing classical rules with modern Mandarin grammar. | Bryan W. Van Norden – *Classical Chinese for Everyone: A Guide for Absolute Beginners* (Hackett Publishing) / Paul Rouzer – [*A New Practical Primer of Literary Chinese*](https://www.hup.harvard.edu/books/9780674022706) (Harvard University Asia Center) | — |
+| Particles & Classical Syntax | It provides rigorous training in grammatical function words (虛字 xuzi) such as 之, 者, 也, 矣, 其, and 所, which govern subordinate clauses, aspect, and sentence mood. | Edwin G. Pulleyblank – *Outline of Classical Chinese Grammar* (UBC Press) | [Chinese Text Project Grammar & Reference Guide](https://ctext.org/) |
+| Lexicon & Reference Dictionaries | It teaches how to look up character meanings, radicals, semantic shifts, and Middle Chinese phonetic categories using standard Sinological reference tools. | Paul W. Kroll – *A Student's Dictionary of Classical and Medieval Chinese* (Brill) | [Chinese Text Project Dictionary](https://ctext.org/dictionary.pl?if=en) |
 
-### 2. Reading & Parsing Skills
+### Reading & Parsing Skills
 
 | Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Graded Reading | It builds your ability to read real classical sentences step by step with increasing difficulty. | Rouzer (same as above) | — |
-| Annotated Classical Texts| It shows you how experts explain difficult passages, so you can learn to understand them yourself. | — | [Chinese Text Project (ctext.org)](https://ctext.org/) |
-| Parallel Translations | It lets you compare the original text with clear English versions to quickly grasp meaning and style. | — | [CTP + Legge & Watson public-domain translations](https://ctext.org/) |
+| Graded Reading & Syntax in Context | It builds reading fluency through graduated, unedited passages from ancient anecdotes, fables, and historical accounts. | Michael A. Fuller – *An Introduction to Literary Chinese* (Harvard University Asia Center) | — |
+| Sentence Segmentation (Duanju) & Glossing | It develops the essential skill of punctuating and parsing historically unpunctuated texts while interpreting traditional scholarly glosses (訓詁 xungu). | Harold Shadick – *A First Course in Literary Chinese* (Cornell University Press) | [Chinese Text Project (ctext.org)](https://ctext.org/) |
+| Annotated Texts & Facing Translations | It enables comparative analysis between original unpunctuated/punctuated classical source text and authoritative scholarly translations. | Stephen Owen et al. – *Library of Chinese Humanities Series* | [Library of Chinese Humanities (Open Access Texts)](https://libraryofchinesehumanities.org/) |
 
 ## Core Classical Chinese Texts
 
-### 3. Early Prose and Thought (Pre-Qin)
+### Early Prose and Thought (Pre-Qin)
 
 | Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Confucius, Mozi, Laozi, Zhuangzi | These texts form the foundation of Chinese philosophy and give you the core ideas that shaped Chinese thought for over 2000 years. | [Ivanhoe & Van Norden – Readings in Classical Chinese Philosophy](https://archive.org/details/readingsinclassi0000unse_k0q4) | [Chinese Text Project](https://ctext.org/) |
-| Grammar in Context | It teaches you how classical grammar actually works in famous real texts instead of abstract rules. | [Fuller – *Introduction to Literary Chinese*](https://archive.org/details/introductiontoli0000full) (Archive.org borrow) | — |
+| Confucius, Mencius, Laozi, and Zhuangzi | These foundational texts established the philosophical vocabulary, rhetorical strategies, and conceptual frameworks that shaped the entire East Asian textual tradition. | Philip J. Ivanhoe & Bryan W. Van Norden (eds.) – *Readings in Classical Chinese Philosophy* (Hackett Publishing) / Michael A. Fuller – *An Introduction to Literary Chinese* | [Chinese Text Project: Pre-Qin and Han Texts](https://ctext.org/) |
+| Warring States Rhetoric & Dialectic | It analyzes the argumentative strategies, parables, and persuasive prose of texts such as *Mozi*, *Xunzi*, and *Han Feizi*. | Burton Watson (trans.) – *Basic Writings of Mo Tzu, Hsun Tzu, and Han Fei Tzu* (Columbia University Press) | [Chinese Text Project](https://ctext.org/) |
 
-### 4. Qin–Han Historical and Administrative Prose
+### Qin–Han Historical and Administrative Prose
 
 | Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Shiji, Hanshu | They are the most important historical works in Chinese tradition and teach you how early historians narrated events and people. | [Selections from Records of the Grand Historian](https://archive.org/details/recordsofgrandhi0000sima_y7t5) (Burton Watson translation, Qin dynasty focus; Han volumes also available) | [Chinese Text Project](https://ctext.org/) |
-| Historiographic Style | It helps you recognize the special narrative techniques and language used in official Chinese historical writing. | — | [CUHK Classics of Chinese Humanities (Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) |
+| Shiji (Records of the Grand Historian) & Hanshu | Sima Qian's monumental work founded Chinese biographical historiography and established the standard for historical narrative style. | Burton Watson (trans.) – *Records of the Grand Historian* (Columbia University Press, Qin and Han Volumes) | [Chinese Text Project: Shiji Corpus](https://ctext.org/shiji) |
+| Historiographical Narrative & Official Style | It teaches how early chronicles (*Zuo Zhuan*, *Zhanguo Ce*) structured narrative drama, diplomatic speeches, and official memorials. | Stephen Durrant, Wai-yee Li, David Schaberg (trans.) – *Zuo Tradition / Zuozhuan* (University of Washington Press) | [CUHK: Classics of Chinese Humanities (Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) |
 
 ## Literary Culture
 
-### 5. Poetry
+### Poetry
 
 | Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Shi, Yuefu, Ci | These forms contain some of the most beautiful and emotionally powerful expressions in Chinese literature. | [Stephen Owen – Anthology](https://archive.org/details/anthologyofchine00step) | [Paula Varsano YouTube](https://www.youtube.com/watch?v=hOkNF5uCZDQ) (lecture series on Classical Chinese Poetry) |
-| Tang Poetry | Tang poems represent the highest achievement in Chinese poetic art and give you mastery of concise, vivid imagery. | [Li Bai & Du Fu (public-domain selections)](https://ctext.org/) | Chinese Text Project |
+| Early Verse & Ballads (Shijing, Chuci, Yuefu) | It introduces the origins of Chinese poetic imagery, rhyme patterns, folk ballad structures, and four-character verse forms. | Stephen Owen – *An Anthology of Chinese Literature: Beginnings to 1911* (W. W. Norton) | [Library of Chinese Humanities](https://libraryofchinesehumanities.org/) |
+| Tang Regulated Verse & Song Lyric (Shi & Ci) | It develops mastery over tonal meter, syntactic parallelism (對仗 duizhang), and thematic conventions in Tang masters (Li Bai, Du Fu, Wang Wei) and Song Ci poets. | Zong-qi Cai (ed.) – *How to Read Chinese Poetry: A Guided Anthology* (Columbia University Press) | [Chinese Text Project: Tang Poetry Corpus](https://ctext.org/) |
 
-### 6. Prose and Literary Style
+### Prose and Literary Style
 
 | Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Guwen (Ancient-Style Prose) | It teaches you the clear, elegant prose style that became the model for serious writing for over a thousand years. | [Han Yu & Liu Zongyuan (Archive.org selections)](https://archive.org/details/guwenguanzhi0000wuch) (collections including their works) | CUHK Coursera |
+| Parallel Prose (Pianwen) & Aesthetic Register | It introduces the balanced, four-and-six-character parallel phrasing, ornate allusion, and lyrical cadence dominant in Six Dynasties prose. | Stephen Owen – *An Anthology of Chinese Literature: Beginnings to 1911* (W. W. Norton) | [Library of Chinese Humanities](https://libraryofchinesehumanities.org/) |
+| Ancient-Style Prose Movement (Guwen) | It covers the clear, unornamented prose style pioneered by Han Yu, Liu Zongyuan, Ouyang Xiu, and Su Shi that redefined essayistic writing for later dynasties. | Zong-qi Cai (ed.) – *How to Read Chinese Prose: A Guided Anthology* (Columbia University Press) / Wu Chucai & Wu Diaohou (eds.) – *Guwen Guanzhi* selections | [CUHK: Classics of Chinese Humanities (Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) |
 
 ## Later Intellectual Traditions
 
-### 7. Neo-Confucianism and Daoism
+### Neo-Confucianism and Commentarial Traditions
 
 | Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Song Thought | It shows how later thinkers reinterpreted and deepened classical Confucian ideas into a complete philosophical system. | [Sources of Chinese Tradition Vol. 1](https://archive.org/details/sourcesofchinese0000deba) | CUHK Coursera |
-| Advanced Daoism | It gives you deeper insight into Daoist philosophy through its most sophisticated and imaginative text. | [Zhuangzi (Watson)](https://archive.org/details/zhuangzi-burton-watson-1) (full translation) | Chinese Text Project |
+| Song-Ming Neo-Confucian Synthesis | It examines how Song and Ming thinkers (Zhu Xi, Cheng brothers, Wang Yangming) reinterpreted classical texts through cosmological and ethical frameworks. | Wm. Theodore de Bary & Irene Bloom (eds.) – *Sources of Chinese Tradition, Vol. 1: From Earliest Times to 1600* (Columbia University Press) | [Chinese Text Project: Song-Ming Thought](https://ctext.org/) |
+| The Four Books & Commentarial Exegesis | It teaches students how to read canonical texts (*Analects*, *Mencius*, *Great Learning*, *Doctrine of the Mean*) through Zhu Xi's standard interlinear commentaries (*Sishu Zhangju Jizhu*). | Daniel K. Gardner – *The Four Books: The Basic Teachings of the Later Confucian Tradition* (Hackett Publishing) / Wing-tsit Chan – *A Source Book in Chinese Philosophy* (Princeton University Press) | [CUHK: Classics of Chinese Humanities (Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) |
 
 ## Final Projects
 
 Project Options:
 
-- Annotated translation of a medium-length text (e.g., one Zhuangzi chapter or Tang poem cycle, 2000–5000 characters).
-- Research essay comparing themes across texts (e.g., "Concepts of Dao in Laozi and Zhuangzi").
-- Critical edition/exegesis of a short passage with commentary.
+- Philological Translation & Commentary: Produce an original, annotated translation of a classical passage (2,000–4,000 characters) from *Zhuangzi*, *Shiji*, or a Tang/Song essay collection, accompanied by parsing notes, particle explanations, and cross-references to traditional commentaries.
+- Comparative Poetic Analysis: Select a suite of Tang regulated verse (*lushi*) or Song lyric (*ci*) poems and analyze their syntactic parallelism, rhyme schemes, and allusion systems against historical commentaries.
+- Historiographical Exegesis: Write a textual commentary on a chapter from the *Zuo Zhuan* or *Shiji*, detailing narrative structure, speech conventions, and grammatical particle usage.
 
 ## Congratulations
 
-After completing the requirements of the curriculum above,
-you will have completed the equivalent of a full bachelor's degree in Classical Chinese.
-Congratulations!
+After completing the requirements of the curriculum above, you will have completed the equivalent of a comprehensive foundational undergraduate major curriculum in Classical Chinese. Congratulations!
 
 # Code of conduct
 
 [Hocbigg's code of conduct](https://github.com/hocbigg/code-of-conduct).
-
-
-
