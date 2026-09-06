@@ -89,16 +89,16 @@ Completing this sequence equips you with the philological, grammatical, and lite
 | Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
 | Introductory Grammar & Morphology | It introduces basic sentence structures, parts of speech, nominal and verbal predication, and word order for absolute beginners without confusing classical rules with modern Mandarin grammar. | Bryan W. Van Norden – *Classical Chinese for Everyone: A Guide for Absolute Beginners* (Hackett Publishing) / Paul Rouzer – [*A New Practical Primer of Literary Chinese*](https://www.hup.harvard.edu/books/9780674022706) (Harvard University Asia Center) | — |
-| Particles & Classical Syntax | It provides rigorous training in grammatical function words (虛字 xuzi) such as 之, 者, 也, 矣, 其, and 所, which govern subordinate clauses, aspect, and sentence mood. | Edwin G. Pulleyblank – *Outline of Classical Chinese Grammar* (UBC Press) | [Chinese Text Project Grammar & Reference Guide](https://ctext.org/) |
-| Lexicon & Reference Dictionaries | It teaches how to look up character meanings, radicals, semantic shifts, and Middle Chinese phonetic categories using standard Sinological reference tools. | Paul W. Kroll – *A Student's Dictionary of Classical and Medieval Chinese* (Brill) | [Chinese Text Project Dictionary](https://ctext.org/dictionary.pl?if=en) |
+| Particles & Classical Syntax | It provides rigorous training in grammatical function words (虛字 xuzi) such as 之, 者, 也, 矣, 其, and 所, which govern subordinate clauses, aspect, and sentence mood. | Edwin G. Pulleyblank – *[Outline of Classical Chinese Grammar](https://books.google.com/books?id=QB0-N182e1kC)* (UBC Press) | [Chinese Text Project Grammar & Reference Guide](https://ctext.org/) |
+| Lexicon & Reference Dictionaries | It teaches how to look up character meanings, radicals, semantic shifts, and Middle Chinese phonetic categories using standard Sinological reference tools. | Paul W. Kroll – *[A Student's Dictionary of Classical and Medieval Chinese](https://brill.com/display/title/20918)* (Brill) | [Chinese Text Project Dictionary](https://ctext.org/dictionary.pl?if=en) |
 
 ### Reading & Parsing Skills
 
 | Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Graded Reading & Syntax in Context | It builds reading fluency through graduated, unedited passages from ancient anecdotes, fables, and historical accounts. | Michael A. Fuller – *An Introduction to Literary Chinese* (Harvard University Asia Center) | — |
-| Sentence Segmentation (Duanju) & Glossing | It develops the essential skill of punctuating and parsing historically unpunctuated texts while interpreting traditional scholarly glosses (訓詁 xungu). | Harold Shadick – *A First Course in Literary Chinese* (Cornell University Press) | [Chinese Text Project (ctext.org)](https://ctext.org/) |
-| Annotated Texts & Facing Translations | It enables comparative analysis between original unpunctuated/punctuated classical source text and authoritative scholarly translations. | Stephen Owen et al. – *Library of Chinese Humanities Series* | [Library of Chinese Humanities (Open Access Texts)](https://libraryofchinesehumanities.org/) |
+| Graded Reading & Syntax in Context | It builds reading fluency through graduated, unedited passages from ancient anecdotes, fables, and historical accounts. | Michael A. Fuller – *[An Introduction to Literary Chinese](https://archive.org/details/anintroductionto0000full)* (Harvard University Asia Center) | — |
+| Sentence Segmentation (Duanju) & Glossing | It develops the essential skill of punctuating and parsing historically unpunctuated texts while interpreting traditional scholarly glosses (訓詁 xungu). | Harold Shadick – *[A First Course in Literary Chinese](https://archive.org/details/firstcourseinlit0000shad)* (Cornell University Press) | [Chinese Text Project (ctext.org)](https://ctext.org/) |
+| Annotated Texts & Facing Translations | It enables comparative analysis between original unpunctuated/punctuated classical source text and authoritative scholarly translations. | Stephen Owen et al. – *[Library of Chinese Humanities Series](https://libraryofchinesehumanities.org/)* | [Library of Chinese Humanities (Open Access Texts)](https://libraryofchinesehumanities.org/) |
 
 ## Core Classical Chinese Texts
 
@@ -106,15 +106,15 @@ Completing this sequence equips you with the philological, grammatical, and lite
 
 | Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Confucius, Mencius, Laozi, and Zhuangzi | These foundational texts established the philosophical vocabulary, rhetorical strategies, and conceptual frameworks that shaped the entire East Asian textual tradition. | Philip J. Ivanhoe & Bryan W. Van Norden (eds.) – *Readings in Classical Chinese Philosophy* (Hackett Publishing) / Michael A. Fuller – *An Introduction to Literary Chinese* | [Chinese Text Project: Pre-Qin and Han Texts](https://ctext.org/) |
-| Warring States Rhetoric & Dialectic | It analyzes the argumentative strategies, parables, and persuasive prose of texts such as *Mozi*, *Xunzi*, and *Han Feizi*. | Burton Watson (trans.) – *Basic Writings of Mo Tzu, Hsun Tzu, and Han Fei Tzu* (Columbia University Press) | [Chinese Text Project](https://ctext.org/) |
+| Confucius, Mencius, Laozi, and Zhuangzi | These foundational texts established the philosophical vocabulary, rhetorical strategies, and conceptual frameworks that shaped the entire East Asian textual tradition. | Philip J. Ivanhoe & Bryan W. Van Norden (eds.) – *[Readings in Classical Chinese Philosophy](https://archive.org/details/readingsinclassi0000unse_k0q4)* (Hackett Publishing) / Michael A. Fuller – *[An Introduction to Literary Chinese](https://archive.org/details/anintroductionto0000full)* | [Chinese Text Project: Pre-Qin and Han Texts](https://ctext.org/) |
+| Warring States Rhetoric & Dialectic | It analyzes the argumentative strategies, parables, and persuasive prose of texts such as *Mozi*, *Xunzi*, and *Han Feizi*. | Burton Watson (trans.) – *[Basic Writings of Mo Tzu, Hsun Tzu, and Han Fei Tzu](https://archive.org/details/basicwritingsofm0000wats)* (Columbia University Press) | [Chinese Text Project](https://ctext.org/) |
 
 ### Qin–Han Historical and Administrative Prose
 
 | Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Shiji (Records of the Grand Historian) & Hanshu | Sima Qian's monumental work founded Chinese biographical historiography and established the standard for historical narrative style. | Burton Watson (trans.) – *Records of the Grand Historian* (Columbia University Press, Qin and Han Volumes) | [Chinese Text Project: Shiji Corpus](https://ctext.org/shiji) |
-| Historiographical Narrative & Official Style | It teaches how early chronicles (*Zuo Zhuan*, *Zhanguo Ce*) structured narrative drama, diplomatic speeches, and official memorials. | Stephen Durrant, Wai-yee Li, David Schaberg (trans.) – *Zuo Tradition / Zuozhuan* (University of Washington Press) | [CUHK: Classics of Chinese Humanities (Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) |
+| Shiji (Records of the Grand Historian) & Hanshu | Sima Qian's monumental work founded Chinese biographical historiography and established the standard for historical narrative style. | Burton Watson (trans.) – *[Records of the Grand Historian](https://archive.org/details/recordsofgrandhi0002burt)* (Columbia University Press, Qin and Han Volumes) | [Chinese Text Project: Shiji Corpus](https://ctext.org/shiji) |
+| Historiographical Narrative & Official Style | It teaches how early chronicles (*Zuo Zhuan*, *Zhanguo Ce*) structured narrative drama, diplomatic speeches, and official memorials. | Stephen Durrant, Wai-yee Li, David Schaberg (trans.) – *[Zuo Tradition / Zuozhuan](https://uwapress.uw.edu/book/9780295999159/zuo-tradition-zuozhuan/)* (University of Washington Press) | [CUHK: Classics of Chinese Humanities (Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) |
 
 ## Literary Culture
 
@@ -122,15 +122,15 @@ Completing this sequence equips you with the philological, grammatical, and lite
 
 | Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Early Verse & Ballads (Shijing, Chuci, Yuefu) | It introduces the origins of Chinese poetic imagery, rhyme patterns, folk ballad structures, and four-character verse forms. | Stephen Owen – *An Anthology of Chinese Literature: Beginnings to 1911* (W. W. Norton) | [Library of Chinese Humanities](https://libraryofchinesehumanities.org/) |
-| Tang Regulated Verse & Song Lyric (Shi & Ci) | It develops mastery over tonal meter, syntactic parallelism (對仗 duizhang), and thematic conventions in Tang masters (Li Bai, Du Fu, Wang Wei) and Song Ci poets. | Zong-qi Cai (ed.) – *How to Read Chinese Poetry: A Guided Anthology* (Columbia University Press) | [Chinese Text Project: Tang Poetry Corpus](https://ctext.org/) |
+| Early Verse & Ballads (Shijing, Chuci, Yuefu) | It introduces the origins of Chinese poetic imagery, rhyme patterns, folk ballad structures, and four-character verse forms. | Stephen Owen – *[An Anthology of Chinese Literature: Beginnings to 1911](https://archive.org/details/anthologyofchine00owen)* (W. W. Norton) | [Library of Chinese Humanities](https://libraryofchinesehumanities.org/) |
+| Tang Regulated Verse & Song Lyric (Shi & Ci) | It develops mastery over tonal meter, syntactic parallelism (對仗 duizhang), and thematic conventions in Tang masters (Li Bai, Du Fu, Wang Wei) and Song Ci poets. | Zong-qi Cai (ed.) – *[How to Read Chinese Poetry: A Guided Anthology](https://archive.org/details/howtoreadchinese0000unse)* (Columbia University Press) | [Chinese Text Project: Tang Poetry Corpus](https://ctext.org/) |
 
 ### Prose and Literary Style
 
 | Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Parallel Prose (Pianwen) & Aesthetic Register | It introduces the balanced, four-and-six-character parallel phrasing, ornate allusion, and lyrical cadence dominant in Six Dynasties prose. | Stephen Owen – *An Anthology of Chinese Literature: Beginnings to 1911* (W. W. Norton) | [Library of Chinese Humanities](https://libraryofchinesehumanities.org/) |
-| Ancient-Style Prose Movement (Guwen) | It covers the clear, unornamented prose style pioneered by Han Yu, Liu Zongyuan, Ouyang Xiu, and Su Shi that redefined essayistic writing for later dynasties. | Zong-qi Cai (ed.) – *How to Read Chinese Prose: A Guided Anthology* (Columbia University Press) / Wu Chucai & Wu Diaohou (eds.) – *Guwen Guanzhi* selections | [CUHK: Classics of Chinese Humanities (Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) |
+| Parallel Prose (Pianwen) & Aesthetic Register | It introduces the balanced, four-and-six-character parallel phrasing, ornate allusion, and lyrical cadence dominant in Six Dynasties prose. | Stephen Owen – *[An Anthology of Chinese Literature: Beginnings to 1911](https://archive.org/details/anthologyofchine00owen)* (W. W. Norton) | [Library of Chinese Humanities](https://libraryofchinesehumanities.org/) |
+| Ancient-Style Prose Movement (Guwen) | It covers the clear, unornamented prose style pioneered by Han Yu, Liu Zongyuan, Ouyang Xiu, and Su Shi that redefined essayistic writing for later dynasties. | Zong-qi Cai (ed.) – *[How to Read Chinese Prose: A Guided Anthology](https://cup.columbia.edu/book/how-to-read-chinese-prose/9780231187978)* (Columbia University Press) / Wu Chucai & Wu Diaohou (eds.) – *[Guwen Guanzhi](https://ctext.org/guwen-guanzhi)* selections | [CUHK: Classics of Chinese Humanities (Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) |
 
 ## Later Intellectual Traditions
 
@@ -138,8 +138,8 @@ Completing this sequence equips you with the philological, grammatical, and lite
 
 | Subject | Why study? | Book | Online Resource |
 | --- | --- | --- | --- |
-| Song-Ming Neo-Confucian Synthesis | It examines how Song and Ming thinkers (Zhu Xi, Cheng brothers, Wang Yangming) reinterpreted classical texts through cosmological and ethical frameworks. | Wm. Theodore de Bary & Irene Bloom (eds.) – *Sources of Chinese Tradition, Vol. 1: From Earliest Times to 1600* (Columbia University Press) | [Chinese Text Project: Song-Ming Thought](https://ctext.org/) |
-| The Four Books & Commentarial Exegesis | It teaches students how to read canonical texts (*Analects*, *Mencius*, *Great Learning*, *Doctrine of the Mean*) through Zhu Xi's standard interlinear commentaries (*Sishu Zhangju Jizhu*). | Daniel K. Gardner – *The Four Books: The Basic Teachings of the Later Confucian Tradition* (Hackett Publishing) / Wing-tsit Chan – *A Source Book in Chinese Philosophy* (Princeton University Press) | [CUHK: Classics of Chinese Humanities (Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) |
+| Song-Ming Neo-Confucian Synthesis | It examines how Song and Ming thinkers (Zhu Xi, Cheng brothers, Wang Yangming) reinterpreted classical texts through cosmological and ethical frameworks. | Wm. Theodore de Bary & Irene Bloom (eds.) – *[Sources of Chinese Tradition, Vol. 1: From Earliest Times to 1600](https://archive.org/details/sourcesofchinese0001deba)* (Columbia University Press) | [Chinese Text Project: Song-Ming Thought](https://ctext.org/) |
+| The Four Books & Commentarial Exegesis | It teaches students how to read canonical texts (*Analects*, *Mencius*, *Great Learning*, *Doctrine of the Mean*) through Zhu Xi's standard interlinear commentaries (*Sishu Zhangju Jizhu*). | Daniel K. Gardner – *[The Four Books: The Basic Teachings of the Later Confucian Tradition](https://openlibrary.org/books/OL9338274M)* (Hackett Publishing) / Wing-tsit Chan – *[A Source Book in Chinese Philosophy](https://archive.org/details/wing-tsit-chan-a-source-book-in-chinese-philosophy)* (Princeton University Press) | [CUHK: Classics of Chinese Humanities (Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) |
 
 ## Final Projects
 
