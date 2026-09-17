@@ -3,156 +3,106 @@ title: Hocbigg - Classical Chinese
 description: Path to a free self-taught education in Classical Chinese!
 ---
 
-# Contents
+## Introduction
 
-- [Summary](#summary)
-- [Communities](#communities)
-- [Curriculum](#curriculum)
-- [Code of conduct](#code-of-conduct)
+Classical Chinese (Literary Chinese / 文言文, *wenyanwen*) served as the shared written medium of East Asian philosophy, governance, historical record, and high literature for more than two millennia. Studying it gives you direct, unmediated access to foundational texts — from the argumentative dialogues of the Warring States philosophers and the dramatic historical chronicles of Sima Qian to Tang regulated verse and Song-Ming intellectual debates — without having to rely on modern translations that inevitably smooth over syntactic ambiguities, wordplay, and traditional commentarial nuance.
 
-# Summary
+This curriculum is designed for independent learners starting from scratch. No formal background in Chinese linguistics, history, or modern spoken Mandarin is assumed. The introductory resources introduce character structure, stroke order, and radicals from the ground up. 
 
-The Classical Chinese curriculum is a complete education in Classical Chinese (文言文) using online materials.
+If you already read modern Chinese, Japanese (Kanji), or Korean (Hanja), you will move through the opening lessons faster, but you must still study the foundational grammar carefully: Classical Chinese operates under distinct morphological patterns, rigid word-order rules, and an inventory of grammatical particles (虛字, *xuzi*) that modern spoken registers do not share.
 
-The focus is on reading comprehension, grammatical mastery, textual analysis, and cultural/historical context, with balanced attention to theory (grammar and philology), practice (translation and reading), and synthesis (interpretation and application).
+### How the Curriculum Is Structured
 
-The resource page can be found here: [classical-chinese/resources](resources.md). 
+Classical Chinese cannot be learned by memorizing vocabulary lists in isolation; it requires an immediate, disciplined grasp of syntax and structure. The curriculum is sequenced into two distinct phases:
 
-## Organization
+- **The Foundations Phase:** Begin strictly with *Introductory Grammar and Morphology*, advance to *Classical Syntax and Grammatical Particles*, and consolidate your skills in *Sentence Parsing and Graded Reading*. Classical Chinese relies heavily on word order, nominalization, inversion, and functional particles rather than inflections. Completing these three subjects sequentially gives you the grammatical framework needed to segment unpunctuated authentic texts (*duanju*) and parse sentences independently.
+- **The Canon and Genre Phase:** Once you have completed the foundational sequence, you can enter the textual canon. Work through *Pre-Qin Philosophical Prose* and *Early Historiographical and Narrative Prose* first, as these texts establish the core lexicon, syntactic norms, and cultural reference points for all later writing. From there, you can study *Classical Poetics and Verse Forms* and *Classical Prose Styles: Parallel and Ancient Prose* in parallel or based on your interests. Conclude with *Commentarial Traditions and Canonical Exegesis*, which teaches you how traditional scholars parsed and read these works through layered interlinear commentaries (*zhu* and *xungu*).
 
-This repository is organized into 2 main components:
+### Scope
 
-- **Core Curriculum** (this page): the foundational knowledge of the field;
-- **[Advanced Topics](advanced_topics.md)**: focused study in specific areas;
+This curriculum focuses strictly on the core linguistic, grammatical, and textual foundations required to read unedited pre-modern Chinese prose and verse. It intentionally does not cover specialized academic subfields such as oracle bone paleography, archaic phonological reconstruction, or digital corpus linguistics. 
 
-**Process:** Learners may work through the curriculum independently or collaboratively, and either sequentially or selectively.
+Once you have built reliable reading fluency through this core sequence, you can branch out into specialized areas of inquiry:
 
-- For simplicity, courses in the Core Curriculum are ordered according to their prerequisites.
-- The Core Curriculum provides a shared foundation and is intended to be completed in full.
-- Advanced Topics are optional; learners are encouraged to select one area of focus and complete all courses within that topic.
+- Explore advanced tracks such as bronze epigraphy, historical linguistics, Buddhist Chinese, and computational Sinology in [Advanced Topics](advanced_topics.md).
+- Deepen your critical understanding with seminal monographs on Chinese poetics, philosophical grammar, and manuscript culture in [Readings](extras/readings.md).
+- Complement your reading with full-length university lectures and guided video masterclasses in [Courses](extras/courses.md).
 
-Note: When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
-they belong in [extras/courses](extras/courses.md), [extras/readings](extras/readings.md).
+Note: The resource page can be found here: [classical-chinese/resources](resources.md).
 
-**[How to contribute](/CONTRIBUTING.html)**
-
-# Communities
+### Communities
 
 - Forums: [Chinese-Forums (Classical Chinese section)](https://www.chinese-forums.com/forums/forum/62-classical-chinese/)
 - Subreddits: [r/classicalchinese](https://www.reddit.com/r/classicalchinese/)
 - Discord servers: [Classical East Asian Languages](https://discord.gg/vmfxMAcw72)
 - You can also interact through [GitHub issues](https://github.com/hocbigg/classical-chinese/issues). If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](/CONTRIBUTING.html).
-- Join our Discord server (for discussions around this and other curricula): 
-    
-    [![discord link](/assets/discord.png)](https://discord.gg/KHqAv4Nvm5)
 
-# Curriculum
+## Curriculum
 
-- [Foundations of Classical Chinese](#foundations-of-classical-chinese)
-    - [Core Language System](#core-language-system)
-    - [Reading & Parsing Skills](#reading--parsing-skills)
-- [Core Classical Chinese Texts](#core-classical-chinese-texts)
-    - [Early Prose and Thought (Pre-Qin)](#early-prose-and-thought-pre-qin)
-    - [Qin–Han Historical and Administrative Prose](#qinhan-historical-and-administrative-prose)
-- [Literary Culture](#literary-culture)
-    - [Poetry](#poetry)
-    - [Prose and Literary Style](#prose-and-literary-style)
-- [Later Intellectual Traditions](#later-intellectual-traditions)
-    - [Neo-Confucianism and Commentarial Traditions](#neo-confucianism-and-commentarial-traditions)
-- [Final Projects](#final-projects)
-- [Congratulations](#congratulations)
+### Introductory Grammar and Morphology
 
-## How to use this curriculum
+This subject introduces basic sentence structures, parts of speech, nominal and verbal predication, negation patterns, and core character syntax for beginners starting with zero background in Classical Chinese.
 
-### Core Path
+[Classical Chinese for Everyone: A Guide for Absolute Beginners (Bryan W. Van Norden, Hackett Publishing)](https://books.google.com/books?isbn=9781624668210) - A gentle, highly accessible entry point designed for complete beginners that introduces basic grammar and character structures through brief, unedited passages.
 
-This curriculum provides a structured, four-stage undergraduate core sequence designed for students starting with zero formal background in Classical Chinese (Literary Chinese / 文言文). Complete each module sequentially:
+[A New Practical Primer of Literary Chinese (Paul Rouzer, Harvard University Asia Center)](https://books.google.com/books?isbn=9780674022706) - A comprehensive, rigorous textbook offering forty sequential lessons with authentic classical texts, detailed grammatical notes, and vocabulary lists; proceed here immediately after Van Norden, or start here if you already have some familiarity with Chinese characters.
 
-- Foundations of Classical Chinese
-  Begin here. This stage establishes fundamental character morphology, grammatical structures, classical particles (虛字), reference dictionary lookup skills, and sentence parsing.
+[Wenyanwen Primer (Robert Eno, Indiana University ScholarWorks)](https://hdl.handle.net/2022/23480) - A free, two-volume open-access college primer that serves as an alternative to Rouzer for structured, step-by-step grammatical instruction and graded reading exercises.
 
-- Core Classical Chinese Texts
-  Read foundational Pre-Qin philosophical masters and early Qin–Han historical narratives, learning to interpret real historical and argumentative prose in its syntactic and cultural context.
+### Classical Syntax and Grammatical Particles
 
-- Literary Culture
-  Examine classical verse forms (Shi, Yuefu, Ci) and prose styles (Pianwen and Guwen), developing sensitivity to prosody, parallel structures, and stylistic registers.
+This subject develops rigorous command of grammatical function words (虛字 xuzi) and syntactical rules governing nominalization, object preposing, coverbs, passive markers, and modal sentence finals.
 
-- Later Intellectual Traditions
-  Study the Song-Ming Neo-Confucian reinterpretation of the classical canon, the Four Books framework, and traditional commentarial practices (*xungu* and *zhu*).
+[Outline of Classical Chinese Grammar (Edwin G. Pulleyblank, UBC Press)](https://books.google.com/books?isbn=9780774805414) - The standard linguistic reference grammar for the high classical language, providing a systematic breakdown of word order, nominal sentences, verbal predicates, and particles.
 
-Completing this sequence equips you with the philological, grammatical, and literary competence equivalent to the core lower- and upper-division requirements of an undergraduate major in Classical Chinese.
+[Du's Handbook of Classical Chinese Grammar (Archie Barnes, Don Starr, and Graham Ormerod, Alcuin Press)](https://books.google.com/books?isbn=9781904623748) - An alternative, highly practical handbook organized by functional sentence patterns and grammatical categories that can be used alongside or in place of Pulleyblank.
 
-## Foundations of Classical Chinese
+### Sentence Parsing and Graded Reading
 
-### Core Language System
+This subject trains learners to segment unpunctuated or lightly punctuated authentic classical prose (斷句 duanju), identify grammatical markers in context, and interpret traditional scholarly glosses.
 
-| Subject | Why study? | Book | Online Resource |
-| --- | --- | --- | --- |
-| Introductory Grammar & Morphology | It introduces basic sentence structures, parts of speech, nominal and verbal predication, and word order for absolute beginners without confusing classical rules with modern Mandarin grammar. | Bryan W. Van Norden – *Classical Chinese for Everyone: A Guide for Absolute Beginners* (Hackett Publishing) / Paul Rouzer – [*A New Practical Primer of Literary Chinese*](https://www.hup.harvard.edu/books/9780674022706) (Harvard University Asia Center) | — |
-| Particles & Classical Syntax | It provides rigorous training in grammatical function words (虛字 xuzi) such as 之, 者, 也, 矣, 其, and 所, which govern subordinate clauses, aspect, and sentence mood. | Edwin G. Pulleyblank – *[Outline of Classical Chinese Grammar](https://books.google.com/books?id=QB0-N182e1kC)* (UBC Press) | [Chinese Text Project Grammar & Reference Guide](https://ctext.org/) |
-| Lexicon & Reference Dictionaries | It teaches how to look up character meanings, radicals, semantic shifts, and Middle Chinese phonetic categories using standard Sinological reference tools. | Paul W. Kroll – *[A Student's Dictionary of Classical and Medieval Chinese](https://brill.com/display/title/20918)* (Brill) | [Chinese Text Project Dictionary](https://ctext.org/dictionary.pl?if=en) |
+[An Introduction to Literary Chinese (Michael A. Fuller, Harvard University Asia Center)](https://archive.org/details/anintroductionto0000full) - A foundational intermediate reader that systematically builds reading fluency by breaking down unedited passages with extensive grammatical and lexical analysis; use this after mastering introductory grammar.
 
-### Reading & Parsing Skills
+[A First Course in Literary Chinese (Harold Shadick, Cornell University Press)](https://archive.org/details/firstcourseinlit0000shad) - A complementary or alternative three-volume course offering unedited classical anecdotes, extensive syntactic outlines, and focused exercises in sentence segmentation and translation.
 
-| Subject | Why study? | Book | Online Resource |
-| --- | --- | --- | --- |
-| Graded Reading & Syntax in Context | It builds reading fluency through graduated, unedited passages from ancient anecdotes, fables, and historical accounts. | Michael A. Fuller – *[An Introduction to Literary Chinese](https://archive.org/details/anintroductionto0000full)* (Harvard University Asia Center) | — |
-| Sentence Segmentation (Duanju) & Glossing | It develops the essential skill of punctuating and parsing historically unpunctuated texts while interpreting traditional scholarly glosses (訓詁 xungu). | Harold Shadick – *[A First Course in Literary Chinese](https://archive.org/details/firstcourseinlit0000shad)* (Cornell University Press) | [Chinese Text Project (ctext.org)](https://ctext.org/) |
-| Annotated Texts & Facing Translations | It enables comparative analysis between original unpunctuated/punctuated classical source text and authoritative scholarly translations. | Stephen Owen et al. – *[Library of Chinese Humanities Series](https://libraryofchinesehumanities.org/)* | [Library of Chinese Humanities (Open Access Texts)](https://libraryofchinesehumanities.org/) |
+### Pre-Qin Philosophical Prose
 
-## Core Classical Chinese Texts
+This subject focuses on the rhetorical structures, philosophical vocabulary, and argumentative prose of late Zhou thinkers, including the Confucian, Daoist, Mohist, and Legalist traditions.
 
-### Early Prose and Thought (Pre-Qin)
+[An Introduction to Literary Chinese (Michael A. Fuller, Harvard University Asia Center)](https://archive.org/details/anintroductionto0000full) - Work through the intermediate and advanced units of this textbook to study annotated classical selections from the Analects, Mencius, Zhuangzi, and Xunzi.
 
-| Subject | Why study? | Book | Online Resource |
-| --- | --- | --- | --- |
-| Confucius, Mencius, Laozi, and Zhuangzi | These foundational texts established the philosophical vocabulary, rhetorical strategies, and conceptual frameworks that shaped the entire East Asian textual tradition. | Philip J. Ivanhoe & Bryan W. Van Norden (eds.) – *[Readings in Classical Chinese Philosophy](https://archive.org/details/readingsinclassi0000unse_k0q4)* (Hackett Publishing) / Michael A. Fuller – *[An Introduction to Literary Chinese](https://archive.org/details/anintroductionto0000full)* | [Chinese Text Project: Pre-Qin and Han Texts](https://ctext.org/) |
-| Warring States Rhetoric & Dialectic | It analyzes the argumentative strategies, parables, and persuasive prose of texts such as *Mozi*, *Xunzi*, and *Han Feizi*. | Burton Watson (trans.) – *[Basic Writings of Mo Tzu, Hsun Tzu, and Han Fei Tzu](https://archive.org/details/basicwritingsofm0000wats)* (Columbia University Press) | [Chinese Text Project](https://ctext.org/) |
+[Chinese Philosophical Texts (Mark Edward Lewis, Stanford University)](https://history.stanford.edu/publications/chinese-philosophical-texts) - A free, open-access reading course designed as a self-paced alternative that guides independent learners through reading Mencius, Zhuangzi, and Han Feizi in the original Classical Chinese.
 
-### Qin–Han Historical and Administrative Prose
+### Early Historiographical and Narrative Prose
 
-| Subject | Why study? | Book | Online Resource |
-| --- | --- | --- | --- |
-| Shiji (Records of the Grand Historian) & Hanshu | Sima Qian's monumental work founded Chinese biographical historiography and established the standard for historical narrative style. | Burton Watson (trans.) – *[Records of the Grand Historian](https://archive.org/details/recordsofgrandhi0002burt)* (Columbia University Press, Qin and Han Volumes) | [Chinese Text Project: Shiji Corpus](https://ctext.org/shiji) |
-| Historiographical Narrative & Official Style | It teaches how early chronicles (*Zuo Zhuan*, *Zhanguo Ce*) structured narrative drama, diplomatic speeches, and official memorials. | Stephen Durrant, Wai-yee Li, David Schaberg (trans.) – *[Zuo Tradition / Zuozhuan](https://uwapress.uw.edu/book/9780295999159/zuo-tradition-zuozhuan/)* (University of Washington Press) | [CUHK: Classics of Chinese Humanities (Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) |
+This subject examines early historical narratives, speeches, and biographical writing found in foundational chronicles such as the Zuo Zhuan, Zhanguo Ce, and Sima Qian's Shiji.
 
-## Literary Culture
+[Introduction to Classical Chinese (Andrew Schonebaum and Kong Mei, eds., Harvard University / Rebus Press)](https://press.rebus.community/classicalchinese/) - An open-access textbook featuring early narrative fables and unabridged Shiji biographies accompanied by running vocabulary glosses, grammatical commentaries, and audio recordings.
 
-### Poetry
+[A First Course in Literary Chinese (Harold Shadick, Cornell University Press)](https://archive.org/details/firstcourseinlit0000shad) - Complements the Schonebaum volume with graded, unedited historical selections from the Zhanguo Ce and Shiji, supported by a comprehensive vocabulary index.
 
-| Subject | Why study? | Book | Online Resource |
-| --- | --- | --- | --- |
-| Early Verse & Ballads (Shijing, Chuci, Yuefu) | It introduces the origins of Chinese poetic imagery, rhyme patterns, folk ballad structures, and four-character verse forms. | Stephen Owen – *[An Anthology of Chinese Literature: Beginnings to 1911](https://archive.org/details/anthologyofchine00owen)* (W. W. Norton) | [Library of Chinese Humanities](https://libraryofchinesehumanities.org/) |
-| Tang Regulated Verse & Song Lyric (Shi & Ci) | It develops mastery over tonal meter, syntactic parallelism (對仗 duizhang), and thematic conventions in Tang masters (Li Bai, Du Fu, Wang Wei) and Song Ci poets. | Zong-qi Cai (ed.) – *[How to Read Chinese Poetry: A Guided Anthology](https://archive.org/details/howtoreadchinese0000unse)* (Columbia University Press) | [Chinese Text Project: Tang Poetry Corpus](https://ctext.org/) |
+[Classics of Chinese Humanities: Guided Readings (The Chinese University of Hong Kong, Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) - A complementary online lecture series providing guided textual readings and cultural context for pivotal historical narratives from the Zuo Zhuan and Shiji.
 
-### Prose and Literary Style
+### Classical Poetics and Verse Forms
 
-| Subject | Why study? | Book | Online Resource |
-| --- | --- | --- | --- |
-| Parallel Prose (Pianwen) & Aesthetic Register | It introduces the balanced, four-and-six-character parallel phrasing, ornate allusion, and lyrical cadence dominant in Six Dynasties prose. | Stephen Owen – *[An Anthology of Chinese Literature: Beginnings to 1911](https://archive.org/details/anthologyofchine00owen)* (W. W. Norton) | [Library of Chinese Humanities](https://libraryofchinesehumanities.org/) |
-| Ancient-Style Prose Movement (Guwen) | It covers the clear, unornamented prose style pioneered by Han Yu, Liu Zongyuan, Ouyang Xiu, and Su Shi that redefined essayistic writing for later dynasties. | Zong-qi Cai (ed.) – *[How to Read Chinese Prose: A Guided Anthology](https://cup.columbia.edu/book/how-to-read-chinese-prose/9780231187978)* (Columbia University Press) / Wu Chucai & Wu Diaohou (eds.) – *[Guwen Guanzhi](https://ctext.org/guwen-guanzhi)* selections | [CUHK: Classics of Chinese Humanities (Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) |
+This subject covers the evolution of Chinese poetic forms, prosody, rhyme schemes, and syntactic parallelism (對仗 duizhang) from ancient four-character verse through Tang regulated poetry and Song lyrics.
 
-## Later Intellectual Traditions
+[How to Read Chinese Poetry: A Guided Anthology (Zong-qi Cai, ed., Columbia University Press)](https://books.google.com/books?isbn=9780231139410) - The primary guided reader for this subject, presenting original texts from the Shijing through Tang regulated verse and Song ci with character-by-character glosses, tone marks, and prosodic analyses.
 
-### Neo-Confucianism and Commentarial Traditions
+[An Anthology of Chinese Literature: Beginnings to 1911 (Stephen Owen, W. W. Norton)](https://archive.org/details/anthologyofchine00owen) - A complementary literary companion that provides extensive historical, cultural, and aesthetic commentary on the major poetic genres to read alongside Cai's close linguistic analyses.
 
-| Subject | Why study? | Book | Online Resource |
-| --- | --- | --- | --- |
-| Song-Ming Neo-Confucian Synthesis | It examines how Song and Ming thinkers (Zhu Xi, Cheng brothers, Wang Yangming) reinterpreted classical texts through cosmological and ethical frameworks. | Wm. Theodore de Bary & Irene Bloom (eds.) – *[Sources of Chinese Tradition, Vol. 1: From Earliest Times to 1600](https://archive.org/details/sourcesofchinese0001deba)* (Columbia University Press) | [Chinese Text Project: Song-Ming Thought](https://ctext.org/) |
-| The Four Books & Commentarial Exegesis | It teaches students how to read canonical texts (*Analects*, *Mencius*, *Great Learning*, *Doctrine of the Mean*) through Zhu Xi's standard interlinear commentaries (*Sishu Zhangju Jizhu*). | Daniel K. Gardner – *[The Four Books: The Basic Teachings of the Later Confucian Tradition](https://openlibrary.org/books/OL9338274M)* (Hackett Publishing) / Wing-tsit Chan – *[A Source Book in Chinese Philosophy](https://archive.org/details/wing-tsit-chan-a-source-book-in-chinese-philosophy)* (Princeton University Press) | [CUHK: Classics of Chinese Humanities (Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) |
+### Classical Prose Styles: Parallel and Ancient Prose
 
-## Final Projects
+This subject explores the stylistic registers of nonfictional prose, contrasting the ornamental cadence of Six Dynasties parallel prose (駢文 pianwen) with the persuasive clarity of the Tang-Song ancient-style prose movement (古文 guwen).
 
-Project Options:
+[How to Read Chinese Prose: A Guided Anthology (Zong-qi Cai, ed., Columbia University Press)](https://books.google.com/books?isbn=9780231203654) - The core text for this subject, providing original texts, word-for-word glosses, and syntactic breakdowns for parallel prose masterpieces and Tang-Song essays by Han Yu, Liu Zongyuan, and Su Shi.
 
-- Philological Translation & Commentary: Produce an original, annotated translation of a classical passage (2,000–4,000 characters) from *Zhuangzi*, *Shiji*, or a Tang/Song essay collection, accompanied by parsing notes, particle explanations, and cross-references to traditional commentaries.
-- Comparative Poetic Analysis: Select a suite of Tang regulated verse (*lushi*) or Song lyric (*ci*) poems and analyze their syntactic parallelism, rhyme schemes, and allusion systems against historical commentaries.
-- Historiographical Exegesis: Write a textual commentary on a chapter from the *Zuo Zhuan* or *Shiji*, detailing narrative structure, speech conventions, and grammatical particle usage.
+[Classics of Chinese Humanities: Guided Readings (The Chinese University of Hong Kong, Coursera)](https://www.coursera.org/learn/classics-chinese-humanities) - A complementary video lecture course that offers guided analysis of the literary devices and rhetorical strategies found in Tang and Song essays.
 
-## Congratulations
+### Commentarial Traditions and Canonical Exegesis
 
-After completing the requirements of the curriculum above, you will have completed the equivalent of a comprehensive foundational undergraduate major curriculum in Classical Chinese. Congratulations!
+This subject examines traditional commentarial grammar, interlinear glossing (注 zhu and 訓詁 xungu), and the commentarial frameworks that shaped the reception of canonical texts.
 
-# Code of conduct
+[Chu Hsi and the Ta-hsueh: Neo-Confucian Reflection on the Confucian Canon (Daniel K. Gardner, Harvard University Asia Center)](https://books.google.com/books?isbn=9780674130654) - The core text for learning how traditional commentaries work, presenting the original Chinese text of the Great Learning alongside Zhu Xi's interlinear notes (章句 zhangju) with close linguistic and hermeneutic analysis.
 
-[Hocbigg's code of conduct](https://github.com/hocbigg/code-of-conduct).
+[A Primer in Chinese Buddhist Writings (John Kieschnick, Stanford University)](https://religiousstudies.stanford.edu/primer-chinese-buddhist-writings) - A complementary, open-access reader that broadens commentarial reading skills to medieval Sinitic prose, offering unedited Buddhist texts with running vocabularies and syntactic notes.
